@@ -1,0 +1,11 @@
+.title{
+  text-align: center;
+  text-shadow: 2px 2px crimson;
+}
+.grid {  
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10%;
+}
+
